@@ -8,10 +8,13 @@ You'll need the following components:
 * Clothespin.
 * Felt-tip pen.
 * Zipties (optional).
+* Hot glue gun (optional).
 
 Additionally, you'll need something to mount your drawing medium on, such as MDF (medium-density fiberboard), likely available at your local hardware or art supply store.
 
 ## Mechanical
+
+0. Make sure your servos are in the middle of their range.
 
 1. Pick a large plastic horn (these probably came with your servo) and screw it into your servo.
 
@@ -21,4 +24,4 @@ Additionally, you'll need something to mount your drawing medium on, such as MDF
 
 4. Attach the clothespin to the end of the second motor's dowel.
 
-Get creative with this project! The general idea is to have two motors on sticks. For some pictures, see [Pete Prodoehl's setup of the original Arc-o-Matic](http://rasterweb.net/raster/projects/arcomatic/).
+Get creative with this project! The general idea is to have two motors on sticks, one attached to the other. For some pictures, see [Pete Prodoehl's setup of the original Arc-o-Matic](http://rasterweb.net/raster/projects/arcomatic/).
