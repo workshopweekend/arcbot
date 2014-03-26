@@ -20,3 +20,5 @@ Additionally, you'll need something to mount your drawing medium on, such as MDF
 3. Mount one motor on your base; attach the second motor to the first motor's dowel, again using electrical tape and/or zipties.
 
 4. Attach the clothespin to the end of the second motor's dowel.
+
+These instructions are meant to be inspirational; for pictures, see [Pete Prodoehl's setup of the original Arc-o-Matic](http://rasterweb.net/raster/projects/arcomatic/).
