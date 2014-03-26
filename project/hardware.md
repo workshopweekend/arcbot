@@ -21,4 +21,4 @@ Additionally, you'll need something to mount your drawing medium on, such as MDF
 
 4. Attach the clothespin to the end of the second motor's dowel.
 
-These instructions are meant to be inspirational; for pictures, see [Pete Prodoehl's setup of the original Arc-o-Matic](http://rasterweb.net/raster/projects/arcomatic/).
+Get creative with this project! The general idea is to have two motors on sticks. For some pictures, see [Pete Prodoehl's setup of the original Arc-o-Matic](http://rasterweb.net/raster/projects/arcomatic/).
